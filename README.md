@@ -25,4 +25,4 @@
 * 如同MNIST資料集，因CandleStick應該也是電腦看得懂的視覺資料。
 
 ## 期末報告
-* Youtube連結如右：
+* Youtube連結如右：https://youtu.be/_DlFB6DopeM
