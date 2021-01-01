@@ -23,3 +23,6 @@
 ### 針對CNN討論如下：
 * 在10個iter下，CNN的預測能力明顯好於預測Sequential的LSTM。
 * 如同MNIST資料集，因CandleStick應該也是電腦看得懂的視覺資料。
+
+## 期末報告
+* Youtube連結如右：
